@@ -1,0 +1,61 @@
+# Profiles Config for Clash Verge
+
+current: RzikpenUjBz7
+items:
+- uid: Merge
+  type: merge
+  name: null
+  file: Merge.yaml
+  updated: 1770532415
+- uid: Script
+  type: script
+  name: null
+  file: Script.js
+  updated: 1770532415
+- uid: mbHAF9u4izY8
+  type: merge
+  name: null
+  file: mbHAF9u4izY8.yaml
+  updated: 1770532495
+- uid: sVfZCHVatfL6
+  type: script
+  name: null
+  file: sVfZCHVatfL6.js
+  updated: 1770532495
+- uid: rtBCW3CB5w58
+  type: rules
+  name: null
+  file: rtBCW3CB5w58.yaml
+  updated: 1770532495
+- uid: ps7z2hzroI9q
+  type: proxies
+  name: null
+  file: ps7z2hzroI9q.yaml
+  updated: 1770532495
+- uid: gdM7Qu82LOms
+  type: groups
+  name: null
+  file: gdM7Qu82LOms.yaml
+  updated: 1770532495
+- uid: RzikpenUjBz7
+  type: remote
+  name: SSRDOG
+  file: RzikpenUjBz7.yaml
+  url: https://c19808d1e81a2cb012471e4c4f189436.r7kq-2nfa-hg9x-bt4m-y3pw.sbs/s?t=c19808d1e81a2cb012471e4c4f189436.jpg
+  selected:
+  - name: GLOBAL
+    now: 🇺🇸 United States丨05
+  extra:
+    upload: 2531092455
+    download: 167334025272
+    total: 322122547200
+    expire: 1787067664
+  updated: 1770620392
+  option:
+    update_interval: 1440
+    allow_auto_update: true
+    merge: mbHAF9u4izY8
+    script: sVfZCHVatfL6
+    rules: rtBCW3CB5w58
+    proxies: ps7z2hzroI9q
+    groups: gdM7Qu82LOms
